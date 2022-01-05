@@ -1,0 +1,2 @@
+def checkWeight(wt):
+    pass
